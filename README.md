@@ -1,9 +1,17 @@
-# Marking up a letter
-MDN skill assessment
+# 100DaysOfCode - HTML
 
-Marking up a Letter
+### MDN skill assessment - Marking up a Letter
+
+<br />
 
 Assessment Link:
 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter
+
+
+<br />
+
+Link to final result:
+
+https://jasheloper.github.io/letter-markup/
 

@@ -2,6 +2,10 @@
 
 ### MDN skill assessment - Marking up a Letter
 
+Video Link:
+
+https://www.youtube.com/watch?v=mTsTJT6SjOw
+
 <br />
 
 Assessment Link:

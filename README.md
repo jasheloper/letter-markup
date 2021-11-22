@@ -1,8 +1,5 @@
-# #100DaysOfCode - HTML Markup
+# MDN skill assessment - Marking up a Letter • 100DaysOfCode | HTML 
 
-### MDN skill assessment - Marking up a Letter
-
-  <br />
 
 ### Assessment Info:
 
@@ -14,7 +11,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking
 
  ### YouTube Video (me doing the project):
 
-https://www.youtube.com/watch?v=mTsTJT6SjOw
+**JasheleTechTV** - https://www.youtube.com/watch?v=mTsTJT6SjOw
 
 
 

@@ -11,7 +11,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking
 
  ### YouTube Video (me doing the project):
 
-**JasheleTechTV** - https://www.youtube.com/watch?v=mTsTJT6SjOw
+**JasheleTechTV** - https://youtu.be/mTsTJT6SjOw
 
 
 
